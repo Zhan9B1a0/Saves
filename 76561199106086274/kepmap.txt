@@ -813,7 +813,7 @@
     },
     {
         "action": "PRECISION_AIM",
-        "key": "PC_MOUSE3"
+        "key": "PC_MOUSE5"
     },
     {
         "action": "PRECISION_AIM",
